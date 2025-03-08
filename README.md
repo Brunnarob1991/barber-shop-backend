@@ -1,7 +1,7 @@
 Projeto Full Stack Decola Tech 2025. 
-Aulas ministradas pelo professor:
+
       <br/>
-     🌟 Desenvolvedor backend - CAJU
+     🌟 Aulas ministradas Desenvolvedor backend - CAJU
       <br/>
 
 
